@@ -14,6 +14,7 @@ Cisco Routers
 Layer 2 & Layer 3 Switches
 
 Features
+<img width="1346" height="309" alt="NETWORK_DHCP PNG" src="https://github.com/user-attachments/assets/589506c1-416d-4882-946e-81e15b67c6c4" />
 
 VLAN (10, 20, 30, 40, 100)
 
